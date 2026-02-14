@@ -1,1 +1,1 @@
-# aura# aura
+Aura Influencer Discovery and Matching Platform
