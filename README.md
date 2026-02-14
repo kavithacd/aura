@@ -1,1 +1,1 @@
-Aura Influencer Discovery and Matching Platform
+# AuraFlow Influencer Discovery and Matching Platform
