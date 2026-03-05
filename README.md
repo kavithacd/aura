@@ -1,1 +1,1 @@
-# AuraFlow Influencer Discovery and Matching Platform
+# AuraFlow Outfit Completion Platform
